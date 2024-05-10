@@ -1,0 +1,1 @@
+<a href="/boards/mi_primer_tablero">go</a>
