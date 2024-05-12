@@ -1,1 +1,5 @@
-<a href="/boards/mi_primer_tablero">go</a>
+<script>
+    let tablero = "Tablero_1";
+</script>
+
+<a href="/boards/{tablero}">{tablero}</a>

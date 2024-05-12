@@ -1,3 +1,3 @@
 <svelte:head>
-    <title>tablero demo</title>
+    <title>tablero_1</title>
 </svelte:head>
